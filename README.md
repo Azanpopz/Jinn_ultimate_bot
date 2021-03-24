@@ -3,15 +3,17 @@
 
 A Telegram Python bot running on python3 forked with saitama with a sqlalchemy database and an entirely themed persona to make fun and good management for you in your groups.
 
-Can be found on telegram as [ജിന്ന് 🧞](https://t.me/Vilakkilaejinn_bot)
+You Can Reach Me On Telegram As [ജിന്ന് ](https://t.me/vilakkilaejinn_bot)
+## Credit's
+- Main Developer [Cyber Security Hacker](http://t.me/cybersecurityhacker)
+- Editor [Aswin Raj](https://t.me/aswin_Raj_TG)
 
-The Support group can be reached out to at [Support Group ](https://t.me/AR_Musics), where you can ask for help , discover new features, report bugs, and stay in the loop whenever a new update is available. 
+## Support
+My Telegram [Support Group](https://t.me/AMXSUPPORT)
+My Telegram [Updates Channel ](https://t.me/Jinnzzupdates)
 
+## Deploy Me On Heroku 
 
-Updates channel as at [Support Channel](https://t.me/ar_Musics_Channel)
-
-## Deploy Me
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CybersecurityhackerJinn/Mizuki.git) 
+[![Deploy Me](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CybersecurityhackerJinn/Mizuki.git) 
 
 
