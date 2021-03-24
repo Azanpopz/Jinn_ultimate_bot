@@ -3,13 +3,13 @@ __help__ = """
 
 Powerful Abilities*
 
-• Group Voice Chat Music Play ❤
+• Next Gen Powerful Abilities ⚡️
 
 • File To Link and URL Upload 📂
 
-• Youtube Downloader 🎵
+• Youtube Music, Video Downloader 🎵
 
-
+• Force Subscribe Function 
 
 Developer ⚡️ [Cyber Security Hacker](http://t.me/cybersecurityhacker)"""
 
