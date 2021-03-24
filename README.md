@@ -1,5 +1,5 @@
 ![ജിന്ന് 🧞](https://telegra.ph/%E0%B4%9C%E0%B4%A8%E0%B4%A8-V20-03-23)
-# Mizuki Bot
+# ജിന്ന് BOT
 
 A Telegram Python bot running on python3 forked with saitama with a sqlalchemy database and an entirely themed persona to make fun and good management for you in your groups.
 
