@@ -1,5 +1,5 @@
 __help__ = """
-*Mizuki - A Powerful Telegram Group Manager 🎶
+* ജിന്ന് - A Powerful Telegram Group Manager Bot..
 
 Powerful Abilities*
 
@@ -9,8 +9,8 @@ Powerful Abilities*
 
 • Youtube Downloader 🎵
 
-Developer @ImJanindu 🇱🇰
 
-Github [ImJanindu](https://github.com/ImJanindu)"""
 
-__mod_name__ = "About 🇱🇰"
+Developer ⚡️ [Cyber Security Hacker](http://t.me/cybersecurityhacker)"""
+
+__mod_name__ = "About Me"
