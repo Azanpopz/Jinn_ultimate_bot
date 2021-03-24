@@ -1,9 +1,9 @@
 
-# ജിന്ന് BOT
+# ജിന്ന് V2.0 Bot
 
 A Telegram Python bot running on python3 forked with saitama with a sqlalchemy database and an entirely themed persona to make fun and good management for you in your groups.
 
-You Can Reach Me On Telegram As [ജിന്ന് ](https://t.me/vilakkilaejinn_bot)
+You Can Reach Me On Telegram As [ജിന്ന് V2.0 ](https://t.me/vilakkilaejinn_bot)
 ## Credit's
 - Main Developer [Cyber Security Hacker](http://t.me/cybersecurityhacker)
 
