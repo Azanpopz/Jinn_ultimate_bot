@@ -16,6 +16,6 @@ My Telegram [Updates Channel ](https://t.me/Jinnzzupdates)
 
 ## Deploy Me On Heroku 
 
-[![Deploy Me](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CybersecurityhackerJinn/Mizuki.git) 
+[![Deploy Me](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Azanpopz/Jinn_ultimate_bot.git) 
 
 
